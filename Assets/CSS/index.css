@@ -1,0 +1,222 @@
+
+*{
+    padding:0px;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.menu ul{
+    margin: 10px;
+    padding: 43px;
+    list-style: none;
+    font-family: 'Nunito', sans-serif;
+    justify-content: space-between;
+}
+
+.menu ul li{
+    display: inline-block;
+    padding: 5px
+   
+}
+
+body {
+    margin: 10px; 
+}
+
+.vertical{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    font-family: 'Nunito', sans-serif;
+  }
+
+  .horizontal {
+      margin: -30 40px;
+      display: flex;
+      justify-content: center;
+      font-family: 'Nunito', sans-serif;
+      margin-bottom: 3rem;
+    }
+    
+    .p1{
+        font-size: 20px;
+    }
+  .horizontal:after {
+      content: "";
+    display: table;
+    clear: both;
+  }
+#mori{
+    font-size: 20px;
+}
+
+*{box-sizing: border-box;
+}
+
+.column{
+    float: left;
+    width: 25px;
+    padding: 5px ;
+}
+
+.row { 
+    content: "";
+    display: table;
+    clear: both;
+    display: flex;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif
+}
+.box{
+    display: inline-block;
+    padding: 2px 16px;
+}
+.technical{
+    display: inline-block;
+    display: flex;
+    font-family: 'Nunito', sans-serif
+
+}
+.footer{
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+.cl{
+    background-color: #EC4067;
+    color: white;
+
+
+}
+.nj{
+    color: #EC4067;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+h4{
+    font-family: 'Nunito', sans-serif;  
+    font-size: 20px;
+}
+.en{
+    font-family: 'Nunito', sans-serif
+    
+}
+.en{
+    color: white;
+}
+
+.still{
+    font-family: 'Nunito', sans-serif
+}
+.footer{
+    font-family: 'Nunito', sans-serif;
+	padding: 50px;
+    font-size: 15px;
+}
+p{
+    font-size: 20px;
+}
+h3{
+    font-size: 20px;
+}
+text{
+    font-size: 20px;
+}
+.en{
+    background-color: #EC4067;
+    border: none;
+}
+
+.project{
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.rose{
+    margin-top: 1.5rem;
+}
+.box img {
+    width: 250px;
+    height: 220px;
+}
+button {
+    height: 2.5rem;
+    width: 7rem;
+}
+.row {
+    margin-bottom: 3rem;
+}
+
+.en1{
+    background-color: white;
+    color: #EC4067;
+    border-color: #EC4067;
+
+}
+.header{
+ font-size: 30px;
+ font-family: 'Nunito', sans-serif;
+ margin-left: 9rem;
+}
+.btx{
+    font-size: 15px;
+    font-family: 'Nunito', sans-serif;
+}
+
+    .tech{ 
+        font-size: 30px;
+ font-family: 'Nunito', sans-serif;
+ margin-left: 2rem;
+    }
+
+
+    .sk{
+        font-size: 15px;
+        font-family: 'Nunito', sans-serif;
+     }
+
+     .Proj{ 
+        font-size: 30px;
+ font-family: 'Nunito', sans-serif;
+ margin-left: 1rem;
+    }
+
+
+    .Clear{
+        font-size: 15px;
+        font-family: 'Nunito', sans-serif;
+     }
+     .text p{
+         color: #EC4067;
+         
+     }
+     .text p:first-child{
+         color: black;
+     }
+     .Bike{
+         color: #EC4067;
+     }
+     .chris{
+         background-image: url("./Assets/images/image 8.png");
+     }
+  
+     .date h3{
+        position:relative;
+        top:-50px;
+        right:-10px;
+        color:white;
+    }
+    
+    .date h4{
+        position:relative;
+        top:-50px;
+        float:right;
+        color:white;
+        padding-right: 10%;
+    }
+    
